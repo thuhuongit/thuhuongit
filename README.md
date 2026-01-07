@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Developer | AI | Security | Web</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lê Thị Thu Hương&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=lethithuhuong&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
