@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Developer | AI | Security | Web</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ThuHuong&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=thuhuongit&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
@@ -46,12 +46,11 @@ thuhuongit/thuhuongit is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <img src="https://github-readme-activity-graph.vercel.app/graph?
-username=ThuHuong
-&bg_color=0D1117
-&color=FF69B4
-&line=FF1493
-&point=FFC0CB
+username=thuhuongit
+&bg_color=FFF0F5
+&color=DB7093
+&line=FF69B4
+&point=FFB6C1
 &area=true
-&area_color=FFB6C1
+&area_color=FFD1DC
 &hide_border=true" width="100%"/>
-
