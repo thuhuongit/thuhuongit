@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=ThuHuong&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
----
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ### 👨‍💻 About Me
 - 🎓 Major: Information Technology / Cyber Security / AI  
@@ -14,7 +14,7 @@
 - 🎯 Goal: Become a **Security Engineer / AI Engineer**
 - 📫 Contact: **hle183414@gmail.**
 
----
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ### 🛠️ Tech Stack
 #### 💻 Programming
