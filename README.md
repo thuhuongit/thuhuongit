@@ -7,14 +7,6 @@
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-### 👨‍💻 About Me
-- 🎓 Major: Information Technology / Cyber Security / AI  
-- 🔐 Interested in: **SOC, Digital Forensics, Malware, AI Security**
-- 💻 Currently learning: **React, Node.js, FastAPI, Deep Learning**
-- 🎯 Goal: Become a **Security Engineer / AI Engineer**
-- 📫 Contact: **hle183414@gmail.**
-
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ### 🛠️ Tech Stack
 #### 💻 Programming
