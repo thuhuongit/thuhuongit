@@ -45,4 +45,13 @@
 thuhuongit/thuhuongit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KalyanM45&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?
+username=ThuHuong
+&bg_color=0D1117
+&color=FF69B4
+&line=FF1493
+&point=FFC0CB
+&area=true
+&area_color=FFB6C1
+&hide_border=true" width="100%"/>
+
